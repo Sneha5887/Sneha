@@ -14,6 +14,6 @@
 <body>
 
 <h1>Hello</h1>
-
+<div class='onesignal-customlink-container'></div>
 </body>
 </html>
